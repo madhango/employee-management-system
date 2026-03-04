@@ -1,0 +1,4 @@
+node_modules
+.env
+employee-management-backend/node_modules
+employee-management-frontend/node_modules
