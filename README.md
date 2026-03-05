@@ -89,7 +89,8 @@ Create `.env` file inside backend:
 
 ```
 PORT=5000
-MONGO_URI=mongodb+srv://madhangowda302_db_user:gJ869tMWmGE5CVzV@cluster1.hjzkmk8.mongodb.net/?appName=Cluster1
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 JWT_SECRET=your_secret_key
 ```
 
