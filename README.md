@@ -139,16 +139,15 @@ POST `/api/employees`
 
 ## Screenshots
 
-## Screenshots
 
 ### Login Page
-![Login](screenshots/Screenshot-1.png)
+![Login](screenshots/Screenshot 2026-03-05 092829.png)
 
 ### Dashboard
-![Dashboard](screenshots/Screenshot-2.png)
+![Dashboard](screenshots/Screenshot 2026-03-05 092830.png)
 
 ### Add Employee List
-![Employees](screenshots/Screenshot-3.png)
+![Employees](screenshots/Screenshot 2026-03-05 093516.png)
 
 
 ---
