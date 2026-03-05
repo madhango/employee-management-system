@@ -37,6 +37,8 @@ This system supports authentication, employee creation, and employee management 
 ## Project Structure
 
 ```
+## Project Structure
+
 employee-management-system
 │
 ├── employee-management-backend
@@ -45,15 +47,20 @@ employee-management-system
 │   ├── models
 │   ├── routes
 │   ├── server.js
-│   └── package.json
+│   ├── package.json
 │
 ├── employee-management-frontend
 │   ├── public
 │   ├── src
 │   │   ├── components
 │   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
+│   │   ├── main.jsx
+│   ├── package.json
+│
+├── screenshots
+│   ├── Screenshot 2026-03-05 092829.png
+│   ├── Screenshot 2026-03-05 092930.png
+│   ├── Screenshot 2026-03-05 093516.png
 │
 ├── .gitignore
 └── README.md
@@ -132,9 +139,16 @@ POST `/api/employees`
 
 ## Screenshots
 
-Login Page
-Dashboard
-Add Employee Page
+## Screenshots
+
+### Login Page
+![Login](screenshots/Screenshot-1.png)
+
+### Dashboard
+![Dashboard](screenshots/Screenshot-2.png)
+
+### Add Employee List
+![Employees](screenshots/Screenshot-3.png)
 
 
 ---
